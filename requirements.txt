@@ -1,0 +1,5 @@
+torch>=1.13.0
+transformers>=4.36.0
+gradio>=4.0.0
+langchain>=0.1.0
+ibm-watson-machine-learning>=1.0.377
